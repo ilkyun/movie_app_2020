@@ -1,0 +1,1 @@
+{"version":3,"sources":["Movie.css","App.css"],"names":[],"mappings":"AAAA,OACE,YACF,CCFA,KACE,wBACF","file":"main.996faeb3.chunk.css","sourcesContent":[".movie {\n  display: flex;\n}\n","body {\n  background-color: #f2f2f2;\n}\n"]}
